@@ -8,3 +8,5 @@
 Ayush-kaithwas/Ayush-kaithwas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+  * Follow me on instagram at [Omnific](https://www.instagram.com/omni_fic/)
+   * My Blog at [Omnific](http://0mnific.blogspot.com/)
