@@ -11,7 +11,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=trammko6vu01ndw5z5wqjjjh9&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=trammko6vu01ndw5z5wqjjjh9&redirect=true)
 
 ### Connect with me:
 
