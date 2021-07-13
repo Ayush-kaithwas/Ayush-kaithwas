@@ -11,7 +11,7 @@
 
 ### Spotify Playing 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=trammko6vu01ndw5z5wqjjjh9&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=trammko6vu01ndw5z5wqjjjh9&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=trammko6vu01ndw5z5wqjjjh9&cover_image=true&theme=novatorem)](https://open.spotify.com/playlist/4Cu4AxsrL03Oha7OI57Qx5?si=b8b9abcd250c432d)
 
 ### Connect with me:
 
