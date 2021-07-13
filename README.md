@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 💞️ I’m looking to collaborate on any artificial intelligence program or any other interesting project. 
 - 📫 How to reach me ? Contact me on - tombriddle53@gmail.com
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play Football
 
 ### Spotify Playing 🎧
