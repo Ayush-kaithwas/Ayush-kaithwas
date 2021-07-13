@@ -2,7 +2,6 @@
 [![Website](https://img.shields.io/website?label=0mnific&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://0mnific.blogspot.com)
 [![Website](https://img.shields.io/website?label=Instagram&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.instagram.com/omni_fic)
 
-- 👋 Hi, This is @Ayush-kaithwas
 - 👀 I’m interested in Machine learning ,AI, electronic circuits and Programming 
 - 🌱 I’m currently learning everything 🤣
 - 💞️ I’m looking to collaborate on any artificial intelligence program or any other interesting project. 
