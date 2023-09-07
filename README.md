@@ -1,4 +1,4 @@
-### Hi there, I'm Ayush - aka [Omnific][Blog] 👋
+### Hi there, I'm Ayush - aka [Electrofic][Blog] 👋
 [![Website](https://img.shields.io/website?label=0mnific&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://0mnific.blogspot.com)
 [![Website](https://img.shields.io/website?label=Instagram&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.instagram.com/omni_fic)
 
