@@ -2,12 +2,13 @@
 [![Website](https://img.shields.io/website?label=0mnific&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://0mnific.blogspot.com)
 [![Website](https://img.shields.io/website?label=Instagram&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.instagram.com/omni_fic)
 
-- 👀 Electronics enthusiast with expertise in IoT, C, C++, Embedded Systems, Microcontrollers, and Linux Systems.
+- 👀 Electronics enthusiast with expertise in IoT, C, C++, Java Embedded Systems, Microcontrollers, and Linux Systems.
 - 🌱 Web development wizard proficient in React.js, MongoDB, Express.js, and Node.js.
 - 🚀 Constantly exploring new technologies and eager to take on challenging projects.
+- 📫 Worked as a FTC ( First Tech Challenge ) mentor, and Programmer. 
 - 💞️ Passionate about bridging the gap between hardware and software to create innovative solutions. 
 - 📫 How to reach me ? Contact me on - ayushharrysudha@gmail.com
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play Football, and chess
 
 ### Spotify Playing 🎧
