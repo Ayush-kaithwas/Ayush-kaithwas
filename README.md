@@ -2,14 +2,14 @@
 [![Website](https://img.shields.io/website?label=0mnific&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://0mnific.blogspot.com)
 [![Website](https://img.shields.io/website?label=Instagram&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.instagram.com/omni_fic)
 
-- 👀 Electronics enthusiast with expertise in IoT, C, C++, Java Embedded Systems, Microcontrollers, and Linux Systems.
-- 🌱 Web development wizard proficient in React.js, MongoDB, Express.js, and Node.js.
-- 🚀 Constantly exploring new technologies and eager to take on challenging projects.
-- 📫 Worked as a FTC ( First Tech Challenge ) mentor, and Programmer. 
-- 💞️ Passionate about bridging the gap between hardware and software to create innovative solutions. 
-- 📫 How to reach me ? Contact me on - ayushharrysudha@gmail.com
-- 🥅 2024 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play Football, and chess
+🏆 FTC mentor—turning wild ideas into award-winning robots.
+⚙️ Maker by Day | Dreamer by Night | Mentor Always
+🔌 Building bridges between hardware & software, one innovation at a time.
+🌐 From microcontrollers to the MERN stack, I engineer for impact.
+💻 Polyglot in C, C++, Java, Python, Linux, and MERN stack sorcery.
+🌟 Driven to create tech that inspires and solves real-world problems.
+⚽ Fun Fact: Chess sharpens my strategy; football keeps me grounded.
+🎯 2024: Open Source horizons, here I come!
 
 ### Spotify Playing 🎧
 
