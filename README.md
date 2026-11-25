@@ -9,7 +9,7 @@
 💻 Polyglot in **C, C++, Java, Python, Linux**, and **MERN stack sorcery**.  
 🌟 Driven to create tech that **inspires and solves real-world problems**.  
 ⚽ **Fun Fact**: Chess sharpens my strategy; football keeps me grounded.  
-🎯 **2024 Goal**: Open Source horizons, here I come!  
+🎯 **2026 Goal**: Open Source horizons, here I come!  
 
 
 ### Spotify Playing 🎧
